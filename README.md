@@ -3,7 +3,6 @@
 ## About Me:
 I am a third year student of Automatics and Robotics at AGH The University of Science and Technology Cracow. Coding is one of my passions and I'm improving my skills.
 
-- 🌱 I’m currently learning Java
 
 ## I code with:
 <p align="left"> 
