@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Szczepan!
 
 ## About Me:
-I am a third year student of Automatics and Robotics at AGH The University of Science and Technology Cracow. Coding is one of my passions and I'm improving my skills.
+I am a fourth year student of Automatics and Robotics at AGH The University of Science and Technology Cracow. Coding is one of my passions and I'm improving my skills.
 
 
 ## I code with:
